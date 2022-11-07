@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab5_Eddy_Marroquin_1146822_Lista", "Lab5_Eddy_Marroquin_1146822_Lista\Lab5_Eddy_Marroquin_1146822_Lista.vcxproj", "{1AC968AD-6DD0-4EAB-B6F0-360961E7760D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC968AD-6DD0-4EAB-B6F0-360961E7760D}.Debug|x64.ActiveCfg = Debug|x64
+		{1AC968AD-6DD0-4EAB-B6F0-360961E7760D}.Debug|x64.Build.0 = Debug|x64
+		{1AC968AD-6DD0-4EAB-B6F0-360961E7760D}.Debug|x86.ActiveCfg = Debug|Win32
+		{1AC968AD-6DD0-4EAB-B6F0-360961E7760D}.Debug|x86.Build.0 = Debug|Win32
+		{1AC968AD-6DD0-4EAB-B6F0-360961E7760D}.Release|x64.ActiveCfg = Release|x64
+		{1AC968AD-6DD0-4EAB-B6F0-360961E7760D}.Release|x64.Build.0 = Release|x64
+		{1AC968AD-6DD0-4EAB-B6F0-360961E7760D}.Release|x86.ActiveCfg = Release|Win32
+		{1AC968AD-6DD0-4EAB-B6F0-360961E7760D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1601901C-203F-45C8-AB4B-9152DF3379D7}
+	EndGlobalSection
+EndGlobal
